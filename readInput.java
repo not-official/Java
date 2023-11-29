@@ -7,7 +7,7 @@ public class Amanlikesmoney {
 
         // Ask the user for their name
         System.out.print("Please enter your name: ");
-        String name = scanner.nextLine();
+        String name = scanner.nextLine();bash
 
         // Ask the user for their age
         System.out.print("Please enter your age: ");
